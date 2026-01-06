@@ -1,0 +1,1 @@
+# Script demonstrating various advanced search algorithms in Python
